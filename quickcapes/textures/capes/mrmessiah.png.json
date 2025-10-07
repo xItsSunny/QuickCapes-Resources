@@ -2,6 +2,5 @@
     "name": "MrMessiah",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "mrmessiah.png"
+    "category": "default"
 }

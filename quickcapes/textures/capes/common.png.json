@@ -2,6 +2,5 @@
     "name": "Common",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "common.png"
+    "category": "default"
 }

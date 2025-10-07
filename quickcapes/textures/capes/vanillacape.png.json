@@ -2,6 +2,5 @@
     "name": "VanillaCape",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "vanillacape.png"
+    "category": "default"
 }

@@ -2,6 +2,5 @@
     "name": "Menace",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "menace.png"
+    "category": "default"
 }

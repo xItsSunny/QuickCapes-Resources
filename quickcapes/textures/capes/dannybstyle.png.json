@@ -2,6 +2,5 @@
     "name": "dannyBstyle",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "dannybstyle.png"
+    "category": "default"
 }

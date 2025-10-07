@@ -2,6 +2,5 @@
     "name": "Translator_Japan",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "translator_japan.png"
+    "category": "default"
 }

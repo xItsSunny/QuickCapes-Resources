@@ -2,6 +2,5 @@
     "name": "Xmas",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "xmas.png"
+    "category": "default"
 }

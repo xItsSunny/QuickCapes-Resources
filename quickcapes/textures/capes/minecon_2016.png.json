@@ -2,6 +2,5 @@
     "name": "Minecon_2016",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "minecon_2016.png"
+    "category": "default"
 }

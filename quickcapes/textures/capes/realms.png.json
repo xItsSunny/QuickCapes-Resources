@@ -2,6 +2,5 @@
     "name": "Realms",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "realms.png"
+    "category": "default"
 }

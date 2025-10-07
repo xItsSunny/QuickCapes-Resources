@@ -2,6 +2,5 @@
     "name": "Scrolls",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "scrolls.png"
+    "category": "default"
 }

@@ -2,6 +2,5 @@
     "name": "Translator_Chinese",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "translator_chinese.png"
+    "category": "default"
 }

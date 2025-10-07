@@ -2,6 +2,5 @@
     "name": "MinecraftExperience",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "minecraftexperience.png"
+    "category": "default"
 }

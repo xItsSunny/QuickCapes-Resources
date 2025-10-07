@@ -2,6 +2,5 @@
     "name": "FrogCape",
     "obtainable": "yes",
     "price": 0,
-    "category": "default",
-    "resource": "frogcape.png"
+    "category": "default"
 }
