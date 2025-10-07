@@ -1,0 +1,7 @@
+{
+    "name": "Turtle",
+    "obtainable": "yes",
+    "price": 0,
+    "category": "default",
+    "resource": "turtle.png"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "BugTracker",
+    "obtainable": "yes",
+    "price": 0,
+    "category": "default",
+    "resource": "bugtracker.png"
+}
