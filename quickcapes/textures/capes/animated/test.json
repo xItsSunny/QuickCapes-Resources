@@ -4,5 +4,5 @@
     "price": 0,
     "category": "default",
     "animated": "yes",
-    "frametime": "40"
+    "frametime": "150"
 }
