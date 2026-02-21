@@ -3,6 +3,6 @@
     "obtainable": "yes",
     "price": 0,
     "category": "default",
-    "animated": "yes"
-    "frametime": "150"
+    "animated": "yes",
+    "frametime": "40"
 }
