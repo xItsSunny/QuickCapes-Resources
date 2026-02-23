@@ -1,8 +1,8 @@
 {
     "name": "MsTest",
     "obtainable": "yes",
-    "price": 0,
-    "category": "default",
+    "price": 250,
+    "category": "quickcapes",
     "animated": "yes",
     "frametime": "40"
 }
